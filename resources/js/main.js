@@ -1,0 +1,1 @@
+const logo_Hotel = 'https://example.com/images/imagen1.jpg';
